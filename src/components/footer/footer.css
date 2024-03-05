@@ -1,0 +1,137 @@
+.footer {
+    width: 100%;
+    height: 400px;
+    background-color: #252525;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+
+
+
+
+
+.childe_left{
+    /* background-color: red; */
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.div_One{
+    /* background-color: yellowgreen; */
+    padding-top: 5rem;
+}
+.div_One ul {
+    list-style-type: none;
+}
+.div_One li {
+    margin: 20px 0;
+    cursor: pointer;
+    color: gray;
+}
+.div_One li:hover {
+    color:  rgb(79, 79, 255);
+}
+
+
+
+.div_Tow{
+    /* background-color: rgb(112, 151, 35); */
+    padding-top: 5rem;
+}
+.div_Tow ul {
+    list-style-type: none;
+}
+.div_Tow li {
+    margin: 20px 0;
+    cursor: pointer;
+    color: gray;
+}
+.div_Tow li:hover {
+    color:  rgb(79, 79, 255);
+}
+
+
+
+
+
+
+
+
+
+.child_right{
+    width: 50%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+.div_Tree{
+    /* background-color: tomato; */
+    padding-top: 5rem;
+}
+
+.div_Tree p{
+    color: gray;
+    margin: 20px 0 ;
+    line-height: 23px;
+}
+
+
+
+
+
+
+
+
+.div_For{
+    /* background-color: violet; */
+    padding-top: 5rem;
+}
+
+.input_text{
+    width: 300px;
+    padding: 5px;
+    display: block;
+    border: none;
+    background: none;
+    border-bottom: 2px solid gray;
+    outline: none;
+    font-size: 15px;
+    color: white;
+}
+
+.input_submit{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 15px 0;
+    cursor: pointer;
+    transition: all ease 0.3s;
+}
+.input_submit:hover{
+    background-color: rgb(79, 79, 255);
+    color: white;
+}
+
+
+.social{
+    width: 40px;
+    transition: all ease 0.5s;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.social:hover{
+    transform: translateY(-7px);
+}

@@ -1,0 +1,81 @@
+.contact{
+    background-color: rgb(230, 230, 230);
+}
+
+.top_contact{
+    padding: 4rem 0 ;
+    overflow: hidden;
+}
+
+.text_One{
+    font-size: 15px ;
+    color: gray;
+}
+.text_Tow{
+    font-size: 5rem ;
+}
+
+.top_contact{
+    text-align: center;
+}
+
+
+
+
+.botton_contact{
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: #0000ff; */
+    padding: 20px 0 ;
+    margin-bottom: 10px;
+}
+.childLeft_contact{
+    /* background-color: red; */
+    text-align: center;
+    width: 50%;
+    overflow: hidden;
+}
+.textleft_contact{
+    color: gray;
+    margin-bottom: 10px;
+}
+.formContact{
+    text-align: center;
+}
+.formContact input{
+    margin: 10px 0 ;
+    width: 30rem;
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+    outline: none;
+}
+.textAria_contact{
+    border: none;
+    border-radius: 3px;
+    margin: 10px 0 ;
+    padding: 10px;
+    outline: none;
+
+}
+
+
+.childRight_contact{
+    /* background-color: yellowgreen; */
+    text-align: center;
+    width: 50%;
+    overflow: hidden;
+}
+.pTop_conteact{
+    margin-bottom: 10px;
+    color: gray;
+}
+.text_address_contact{
+    margin: 10px 0 ;
+    line-height: 25px;
+}
+.h3Tilte_contact{
+    margin: 20px 0 ;
+}
+
+

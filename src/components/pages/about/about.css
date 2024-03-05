@@ -1,0 +1,18 @@
+.about{
+    padding: 10px;
+    text-align: center;
+    margin: 2rem 0 ;
+    overflow: hidden;
+}
+.imgAbout{
+    width: 60%;
+}
+.about_h2{
+    font-size: 35px;
+    font-weight: 800;
+    margin: 3rem 0 ;
+}
+.about_text{
+    color: gray;
+    line-height:23px;
+}
